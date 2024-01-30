@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Eae+pessoal+tudo+bem?;Meu+nome+é+Luiz+Eduardo!;E+eu++tenho+22+anos+;Moro+em+Blumenau,+SC;E+atualmente+estou+estudando+Csharp;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizeduardooo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ff0000&bg_color=0d1117" alt="Luiz Eduardo github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardooo&layout=compact&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizeduardooo&show_icons=true&count_private=true&locale=pt-br&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ff0000&bg_color=0d1117" alt="Luiz Eduardo github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardooo&layout=compact&hide_border=true&locale=pt-br&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
 <div align="center">  
